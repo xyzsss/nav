@@ -2,13 +2,13 @@
   "favicon": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/logo.png",
   "homeUrl": "https://nav3.cn",
   "language": "zh-CN",
-  "loading": "random",
+  "loading": "loading2",
   "showGithub": true,
-  "title": "发现导航 - 精选实用导航网站",
-  "description": "发现导航 - 精选实用导航网站",
-  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,node.js",
+  "title": "exuxus",
+  "description": "naving",
+  "keywords": "导航,前端资源,社区站点,设计师,实用工具,学习资源,运营,网络安全,shell",
   "theme": "Light",
-  "appTheme": "App",
+  "appTheme": "Side",
   "headerContent": "",
   "footerContent": "<div style=\"font-weight: bold;\">共收录${total}个网站</div><div>Copyright © 2018-present nav3.cn, All Rights Reserved</div>",
   "iconfontUrl": "//at.alicdn.com/t/font_2522843_wl70o31sy6.js",
@@ -17,12 +17,6 @@
   "simThemeImages": [
     {
       "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/sim-wallpaper.jpg",
-      "url": "",
-      "width": null,
-      "height": null
-    },
-    {
-      "src": "https://cdn.jsdelivr.net/gh/xjh22222228/nav@image/nav-1637490885331-ChMkKWF4tn6IeIGwAD5r3l1JSDcAAU-5QFAFu4APmv2924.jpeg",
       "url": "",
       "width": null,
       "height": null
